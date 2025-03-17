@@ -3,7 +3,6 @@ import requests
 
 app = Flask(__name__)
 
-# Ganti dengan API Key Anda
 API_KEY = 'ad76b0b2f9d24682842924ff71c6b806'
 BASE_URL = 'https://newsapi.org/v2/everything'
 
